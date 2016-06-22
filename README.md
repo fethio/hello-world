@@ -11,3 +11,4 @@ writing and editing code in emacs with ropemacs
 building in git, github
 current projects are sfepy and pyfem
 future work to be announced
+later in the afternoon
