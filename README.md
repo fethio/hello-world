@@ -12,3 +12,4 @@ building in git, github
 current projects are sfepy and pyfem
 future work to be announced
 later in the afternoon
+or maybe better, tommorrow in the morning
